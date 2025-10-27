@@ -1,0 +1,200 @@
+{
+  "geminiApis": [
+    {
+      "id": 1761520774889,
+      "apiKey": "AIzaSyBuU_Ur8xcDTbKBBMCPcFPdSbII7R_gQbQ",
+      "name": "pertama",
+      "createdAt": "2025-10-26T23:19:34.889Z",
+      "isValid": true,
+      "lastUsed": null,
+      "usageCount": 0
+    }
+  ],
+  "geminiUsage": [],
+  "analytics": {
+    "uploads": [
+      {
+        "id": "unique_upload_id",
+        "accountName": "account_name",
+        "pageId": "page_id",
+        "pageName": "page_name",
+        "type": "reel|post",
+        "fileName": "original_file_name.mp4",
+        "fileSize": 1024000,
+        "duration": 30,
+        "caption": "upload_caption",
+        "hashtags": [
+          "hashtag1",
+          "hashtag2"
+        ],
+        "status": "completed|failed|pending",
+        "uploadUrl": "facebook_post_url",
+        "scheduledTime": "2025-01-01T10:00:00Z",
+        "actualUploadTime": "2025-01-01T10:05:00Z",
+        "completionTime": "2025-01-01T10:15:00Z",
+        "processingTime": 600,
+        "retryCount": 0,
+        "errorMessage": null,
+        "category": "entertainment|education|promotional",
+        "priority": "high|medium|low",
+        "thumbnailUrl": "thumbnail_url",
+        "videoUrl": "video_url"
+      },
+      {
+        "id": "mh9a1ry478hoc8dz88n",
+        "accountName": "mimimomo",
+        "pageId": "61579915261071",
+        "pageName": "GoyangGo",
+        "type": "reel",
+        "fileName": "呼叫tony～ _新发型 _转场.mp4",
+        "caption": "Tony habis potong rambut! Lihat transformasi gaya rambutnya yang super keren. Plus, ada transisi video yang smooth banget! #gayabaru #rambutkeren #transformasirambut",
+        "hashtags": [
+          "gayabaru",
+          "rambutkeren",
+          "transformasirambut"
+        ],
+        "status": "pending",
+        "scheduledTime": null,
+        "retryCount": 0,
+        "category": "general",
+        "priority": "medium",
+        "createdAt": "2025-10-27T15:13:04.461Z"
+      },
+      {
+        "id": "mh9a1ry478hoc8dz88n",
+        "accountName": "mimimomo",
+        "pageId": "61579915261071",
+        "pageName": "GoyangGo",
+        "type": "reel",
+        "fileName": "呼叫tony～ _新发型 _转场.mp4",
+        "caption": "Tony habis potong rambut! Lihat transformasi gaya rambutnya yang super keren. Plus, ada transisi video yang smooth banget! #gayabaru #rambutkeren #transformasirambut",
+        "hashtags": [
+          "gayabaru",
+          "rambutkeren",
+          "transformasirambut"
+        ],
+        "status": "processing",
+        "scheduledTime": null,
+        "actualUploadTime": "2025-10-27T15:13:25.266Z",
+        "retryCount": 0,
+        "category": "general",
+        "priority": "medium",
+        "createdAt": "2025-10-27T15:13:25.268Z"
+      },
+      {
+        "id": "mh9a1ry478hoc8dz88n",
+        "accountName": "mimimomo",
+        "pageId": "61579915261071",
+        "pageName": "GoyangGo",
+        "type": "reel",
+        "fileName": "呼叫tony～ _新发型 _转场.mp4",
+        "caption": "Tony habis potong rambut! Lihat transformasi gaya rambutnya yang super keren. Plus, ada transisi video yang smooth banget! #gayabaru #rambutkeren #transformasirambut",
+        "hashtags": [
+          "gayabaru",
+          "rambutkeren",
+          "transformasirambut"
+        ],
+        "status": "completed",
+        "uploadUrl": "https://www.facebook.com/reel/",
+        "scheduledTime": null,
+        "actualUploadTime": "2025-10-27T15:14:36.972Z",
+        "completionTime": "2025-10-27T15:14:36.972Z",
+        "processingTime": 71722,
+        "retryCount": 0,
+        "category": "general",
+        "priority": "medium",
+        "createdAt": "2025-10-27T15:14:36.983Z"
+      }
+    ],
+    "engagement": [
+      {
+        "uploadId": "unique_upload_id",
+        "accountName": "account_name",
+        "pageId": "page_id",
+        "type": "reel|post",
+        "metrics": {
+          "views": 1500,
+          "likes": 45,
+          "comments": 12,
+          "shares": 8,
+          "reactions": {
+            "like": 45,
+            "love": 10,
+            "wow": 3,
+            "haha": 1,
+            "sad": 0,
+            "angry": 0
+          },
+          "reach": 2500,
+          "impressions": 3200,
+          "engagementRate": 4.2,
+          "clickThroughRate": 1.8,
+          "watchTime": 45000,
+          "averageWatchTime": 25
+        },
+        "trackedAt": "2025-01-01T12:00:00Z",
+        "lastUpdated": "2025-01-01T12:00:00Z"
+      }
+    ],
+    "performance": {
+      "bestPostingTimes": [
+        {
+          "hour": 14,
+          "dayOfWeek": 3,
+          "averageEngagement": 8.5,
+          "totalUploads": 25,
+          "successRate": 96
+        }
+      ],
+      "accountComparison": [
+        {
+          "accountName": "account_name",
+          "totalUploads": 50,
+          "successfulUploads": 48,
+          "totalViews": 25000,
+          "totalLikes": 1200,
+          "totalComments": 340,
+          "totalShares": 180,
+          "averageEngagementRate": 6.8,
+          "bestPerformingContent": "education",
+          "successRate": 96,
+          "averageProcessingTime": 300
+        }
+      ],
+      "contentCategories": [
+        {
+          "category": "entertainment",
+          "totalUploads": 30,
+          "averageViews": 1200,
+          "averageEngagementRate": 5.2,
+          "topHashtags": [
+            "viral",
+            "entertainment",
+            "funny"
+          ]
+        }
+      ],
+      "trends": {
+        "dailyStats": [
+          {
+            "date": "2025-01-01",
+            "totalUploads": 5,
+            "totalViews": 8000,
+            "totalEngagement": 420,
+            "topPerformingUpload": "upload_id"
+          }
+        ],
+        "weeklyStats": [
+          {
+            "weekStart": "2025-01-01",
+            "totalUploads": 35,
+            "totalViews": 56000,
+            "totalEngagement": 2800,
+            "engagementGrowth": 12.5
+          }
+        ]
+      }
+    }
+  },
+  "uploadQueue": []
+}
